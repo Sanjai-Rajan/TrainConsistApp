@@ -10,7 +10,7 @@ import java.util.Set;
  *
  * Description:
  * This class ensures that duplicate bogie IDs are not
- * added into the train formation using HashSet.
+ * added into the train formation using HashSet. 
  *
  * At this stage, the application:
  * - Stores bogie IDs
