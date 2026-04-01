@@ -15,7 +15,7 @@ import java.util.List;
  * At this stage, the application:
  * - Adds bogies in sequence
  * - Inserts bogies at specific positions
- * - Removes bogies from front and rear
+ * - Removes bogies from front and rear 
  * - Displays updated train structure
  *
  * This maps positional operations using LinkedList.
