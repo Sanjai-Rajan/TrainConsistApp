@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * ==========================================================
- * MAIN CLASS – UseCase6TrainConsistMgmnt
+ * MAIN CLASS – UseCase6TrainConsistMgmnt 
  * ==========================================================
  *
  * Use Case 6: Map Bogie to Capacity (HashMap)
