@@ -13,7 +13,7 @@ import java.util.List;
  * This class sorts passenger bogies based on seating
  * capacity using a custom Comparator.
  *
- * At this stage, the application:
+ * At this stage, the application: 
  * - Creates bogie objects
  * - Stores them in a list
  * - Displays unsorted data
