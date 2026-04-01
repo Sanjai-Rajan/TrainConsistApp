@@ -11,7 +11,7 @@ import java.util.Set;
  * Description:
  * This class maintains the exact attachment order of bogies
  * while also preventing duplicate entries using LinkedHashSet.
- *
+ * 
  * At this stage, the application:
  * - Attaches bogies in order
  * - Preserves insertion sequence
