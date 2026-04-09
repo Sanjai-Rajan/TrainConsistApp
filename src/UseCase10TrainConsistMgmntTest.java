@@ -18,7 +18,7 @@ import java.util.List;
  * @author Developer
  * @version 10.0
  */
-
+ 
 public class UseCase10TrainConsistMgmntTest {
 
     // ---- Helper: Inner Bogie class ----
