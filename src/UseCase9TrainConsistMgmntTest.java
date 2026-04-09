@@ -21,6 +21,7 @@ import java.util.stream.Collectors;
  * @version 9.0
  */
 
+
 public class UseCase9TrainConsistMgmntTest {
 
     // ---- Helper: Inner Bogie class ----
